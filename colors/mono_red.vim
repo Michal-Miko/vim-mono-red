@@ -75,7 +75,7 @@ hi CursorLine            guifg=#bcbcbc  guibg=#121212  guisp=#121212  gui=NONE  
 hi DiffDelete            guifg=#af0000  guibg=#303030  guisp=#303030  gui=NONE            ctermfg=124   ctermbg=236   cterm=NONE
 hi CursorColumn          guifg=#bcbcbc  guibg=#121212  guisp=#121212  gui=NONE            ctermfg=250   ctermbg=233   cterm=NONE
 hi Define                guifg=#8a8a8a  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=245   ctermbg=NONE  cterm=NONE
-hi Function              guifg=#dadada  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=253   ctermbg=NONE  cterm=NONE
+hi Function              guifg=#eeeeee  guibg=NONE     guisp=NONE     gui=bold            ctermfg=255   ctermbg=NONE  cterm=bold
 hi PreProc               guifg=#8a8a8a  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=245   ctermbg=NONE  cterm=NONE
 hi Visual                guifg=#121212  guibg=#767676  guisp=#767676  gui=NONE            ctermfg=233   ctermbg=243   cterm=NONE
 hi VertSplit             guifg=#121212  guibg=#1c1c1c  guisp=#1c1c1c  gui=NONE            ctermfg=233   ctermbg=234   cterm=NONE

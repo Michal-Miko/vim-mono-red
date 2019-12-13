@@ -1,7 +1,9 @@
 " File: mono_red.vim
 " Author: Michał Mikołajczyk
-" Description: A simple monochrome colorscheme with red highlights.
 " Last Modified: December 13, 2019
+"
+" A simple monochrome colorscheme with red highlights.
+"
 
 set background=dark
 if version > 580

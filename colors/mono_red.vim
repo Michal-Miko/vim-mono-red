@@ -1,6 +1,6 @@
 " File: mono_red.vim
 " Author: Michał Mikołajczyk
-" Last Modified: December 13, 2019
+" Last Modified: December 17, 2019
 "
 " A simple monochrome colorscheme with red highlights.
 "
@@ -82,7 +82,7 @@ hi PMenuThumb            guifg=#bcbcbc  guibg=#a8a8a8  guisp=#a8a8a8  gui=NONE  
 hi PreCondit             guifg=#8a8a8a  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=245   ctermbg=NONE  cterm=NONE
 hi PreProc               guifg=#8a8a8a  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=245   ctermbg=NONE  cterm=NONE
 hi Repeat                guifg=#dadada  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=253   ctermbg=NONE  cterm=NONE
-hi Search                guifg=#ffaf00  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=214   ctermbg=NONE  cterm=NONE
+hi Search                guifg=#ffaf00  guibg=#585858  guisp=NONE     gui=NONE            ctermfg=214   ctermbg=240   cterm=NONE
 hi SignColumn            guifg=#121212  guibg=#1c1c1c  guisp=#1c1c1c  gui=NONE            ctermfg=233   ctermbg=234   cterm=NONE
 hi Special               guifg=#d70000  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=160   ctermbg=NONE  cterm=NONE
 hi SpecialChar           guifg=#d70000  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=160   ctermbg=NONE  cterm=NONE

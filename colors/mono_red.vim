@@ -65,7 +65,7 @@ hi Folded                guifg=#bcbcbc  guibg=#303030  guisp=#303030  gui=italic
 hi Function              guifg=#eeeeee  guibg=NONE     guisp=NONE     gui=bold            ctermfg=255   ctermbg=NONE  cterm=bold
 hi HighlightedyankRegion guifg=#121212  guibg=#ffaf00  guisp=#767676  gui=NONE            ctermfg=233   ctermbg=214   cterm=NONE
 hi Identifier            guifg=#bcbcbc  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=250   ctermbg=NONE  cterm=NONE
-hi IncSearch             guifg=#bcbcbc  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=250   ctermbg=NONE  cterm=NONE
+hi IncSearch             guifg=#121212  guibg=#ffaf00  guisp=#767676  gui=NONE            ctermfg=233   ctermbg=214   cterm=NONE
 hi Include               guifg=#dadada  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=253   ctermbg=NONE  cterm=NONE
 hi Keyword               guifg=#bcbcbc  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=250   ctermbg=NONE  cterm=NONE
 hi Label                 guifg=#bcbcbc  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=250   ctermbg=NONE  cterm=NONE

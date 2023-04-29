@@ -24,7 +24,6 @@ let g:colors_name = "mono_sw_red_modified"
 "hi DefinedName          -- no settings --
 "hi EnumerationName      -- no settings --
 "hi EnumerationValue     -- no settings --
-"hi FoldColumn           -- no settings --
 "hi Ignore               -- no settings --
 "hi LocalVariable        -- no settings --
 "hi ModeMsg              -- no settings --
@@ -62,6 +61,7 @@ hi ErrorMsg              guifg=#c00000  guibg=NONE     guisp=NONE     gui=bold,u
 hi Exception             guifg=#bcbcbc  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=250   ctermbg=NONE  cterm=NONE
 hi Float                 guifg=#d70000  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=160   ctermbg=NONE  cterm=NONE
 hi Folded                guifg=#bcbcbc  guibg=#303030  guisp=#303030  gui=italic          ctermfg=250   ctermbg=236   cterm=italic
+hi FoldColumn            guifg=#bcbcbc  guibg=#303030  guisp=NONE     gui=NONE            ctermfg=250   ctermbg=236   cterm=NONE
 hi Function              guifg=#eeeeee  guibg=NONE     guisp=NONE     gui=bold            ctermfg=255   ctermbg=NONE  cterm=bold
 hi HighlightedyankRegion guifg=#121212  guibg=#ffaf00  guisp=#767676  gui=NONE            ctermfg=233   ctermbg=214   cterm=NONE
 hi Identifier            guifg=#bcbcbc  guibg=NONE     guisp=NONE     gui=NONE            ctermfg=250   ctermbg=NONE  cterm=NONE
